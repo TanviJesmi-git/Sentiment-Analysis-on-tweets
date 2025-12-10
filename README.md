@@ -179,13 +179,3 @@ Tweet: This is the worst movie ever.
 * NLTK Stopword Corpus
 * scikit-learn
 * Research papers on **LSTM** and **Word Embeddings**
-
----
-
-If you want, I can also generate:
-✅ A `requirements.txt`
-✅ A `train.py` script
-✅ A `predict.py` script
-✅ A project folder structure for GitHub
-
-Just tell me!
